@@ -6,3 +6,5 @@
 4. Merge feature/-branches to develop branch
 5. Create release branch 
 6. Mergr release branch to main and develop branches and delete release branch after that 
+7. Create hotfix branch if main branch has errors
+8. Mergr hotfix branch to main and develop branches
